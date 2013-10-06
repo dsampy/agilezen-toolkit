@@ -14,7 +14,7 @@
     <packaging>pom</packaging>
 
     <!-- More Project Information -->
-    <name>confluence-toolkit</name>
+    <name>agilezen-toolkit</name>
     <url>https://github.com/dsampy/agilezen-toolkit</url>
     <inceptionYear>2013</inceptionYear>
     <developers>
@@ -38,3 +38,4 @@
         <developerConnection>scm:git:git@github.com:dsampy/agilezen-toolkit.git</developerConnection>
     </scm>
 </project>
+>>>>>>> bb19dc2250b1dd6836f205b44fc09c51caf51edd
